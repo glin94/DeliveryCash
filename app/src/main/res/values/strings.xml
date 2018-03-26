@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Delivery Cash</string>
+  <string name="alert_dialog_two_buttons_title">Новая смена</string>
+  <string name="main_dialog_fullscreen">Новая смена</string>
+
+
+</resources>
